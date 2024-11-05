@@ -1,3 +1,8 @@
 body{
     background-color: blue;
 }
+
+a{
+    margin: 0;
+    padding: 0;
+}
