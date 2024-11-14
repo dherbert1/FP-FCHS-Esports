@@ -1,5 +1,7 @@
 body{
     background-image: url(https://pbs.twimg.com/media/GcN4-z7XIAAoPvI.jpg);
+    padding: 50%;
+    margin: 50%;
 }
 
 .topnav {
