@@ -1,7 +1,6 @@
 body{
     background-image: url(https://pbs.twimg.com/media/GcN4-z7XIAAoPvI.jpg);
-    padding: 50%;
-    margin: 50%;
+    background-repeat: no-repeat;
 }
 
 .topnav {
@@ -26,4 +25,8 @@ body{
   .topnav a.active {
     background-color: #0400d6;
     color: black;
+  }
+
+  h1, p{
+    background-color: #00005f;
   }
