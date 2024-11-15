@@ -1,6 +1,6 @@
 body{
     background-image: url(https://pbs.twimg.com/media/GcN4-z7XIAAoPvI.jpg);
-    background-size: 100% 100%;
+    background-size: 100% 50%;
 }
 
 .topnav {
@@ -29,4 +29,5 @@ body{
 
   h1, h2, p{
     background-color: #00005f;
+    color: #fff;
   }
