@@ -27,7 +27,7 @@ body{
     color: black;
   }
 
-  h1, h2, p{
+  h1, h2, h4, p{
     background-color: #00005f;
     color: #fff;
   }
