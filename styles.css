@@ -1,6 +1,5 @@
 body{
-    background-image: url(https://pbs.twimg.com/media/GcN4-z7XIAAoPvI.jpg);
-    background-size: 50% 50%;
+    background-color: linear-gradient(90deg, navy, white, blue);
 }
 
 .topnav {
