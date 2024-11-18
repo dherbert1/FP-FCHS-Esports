@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(90deg, navy, white, blue);
+    background: linear-gradient(40deg, navy 100%, blue 50%, white 10%);
 }
 
 .topnav {
