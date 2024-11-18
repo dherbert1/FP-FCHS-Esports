@@ -1,5 +1,5 @@
 body{
-    background-color: linear-gradient(90deg, navy, white, blue);
+    background: linear-gradient(90deg, navy, white, blue);
 }
 
 .topnav {
@@ -26,7 +26,7 @@ body{
     color: black;
   }
 
-  h1, h2, h4, p{
+  h1, h2, h4, p, ul{
     background-color: #00005f;
     color: #fff;
   }
