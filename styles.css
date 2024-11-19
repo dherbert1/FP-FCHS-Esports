@@ -1,5 +1,7 @@
 body{
     background: linear-gradient(40deg, navy 100%, blue 50%, white 10%);
+    padding: 20% 50%;
+    margin: 10% 70%;
 }
 
 .topnav {
@@ -29,4 +31,10 @@ body{
   h1, h2, h4, p, ul{
     background-color: #00005f;
     color: #fff;
+  }
+
+  header{
+    background-color: #00005f;
+    color: #fff;
+    font-family: Climate Crisis, sans-serif;
   }
