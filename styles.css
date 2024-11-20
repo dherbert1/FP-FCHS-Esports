@@ -1,6 +1,5 @@
 body{
     background: linear-gradient(40deg, navy 100%, blue 50%, white 10%);
-    padding: 0% auto;
     margin: 0% auto;
 }
 
@@ -28,7 +27,7 @@ body{
     color: black;
   }
 
-  h1, h2, h4, p, ul, table{
+  h1, h2, h4, p, ul, th, td{
     background-color: #00005f;
     color: #fff;
     font-size: 25px;
@@ -39,4 +38,8 @@ body{
     color: #fff;
     font-family: Climate Crisis, sans-serif;
     font-size: 50px;
+  }
+
+  .h{
+    margin: 10px auto;
   }
