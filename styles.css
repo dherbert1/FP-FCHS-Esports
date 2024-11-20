@@ -28,7 +28,7 @@ body{
     color: black;
   }
 
-  h1, h2, h4, p, ul{
+  h1, h2, h4, p, ul, table{
     background-color: #00005f;
     color: #fff;
   }
@@ -37,4 +37,5 @@ body{
     background-color: #00005f;
     color: #fff;
     font-family: Climate Crisis, sans-serif;
+    font-size: 30px;
   }
