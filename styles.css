@@ -1,7 +1,6 @@
 body{
     background: linear-gradient(40deg, navy 100%, blue 50%, white 10%);
     margin: 0% auto;
-    background-color: #00005f;
     color: #fff;
 }
 
@@ -31,11 +30,13 @@ body{
 
   h1, h2, h4, p, ul, th, td{
     font-size: 20px;
+    background-color: #00005f;
   }
 
   header{
     font-family: Climate Crisis, sans-serif;
     font-size: 50px;
+    background-color: #00005f;
   }
 
   .h{
@@ -44,4 +45,8 @@ body{
 
   .games{
     text-align: right;
+  }
+
+  table{
+    table-layout: fixed;
   }
