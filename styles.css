@@ -1,6 +1,8 @@
 body{
     background: linear-gradient(40deg, navy 100%, blue 50%, white 10%);
     margin: 0% auto;
+    background-color: #00005f;
+    color: #fff;
 }
 
 .topnav {
@@ -28,18 +30,18 @@ body{
   }
 
   h1, h2, h4, p, ul, th, td{
-    background-color: #00005f;
-    color: #fff;
-    font-size: 25px;
+    font-size: 20px;
   }
 
   header{
-    background-color: #00005f;
-    color: #fff;
     font-family: Climate Crisis, sans-serif;
     font-size: 50px;
   }
 
   .h{
     padding-top: 5%;
+  }
+
+  .games{
+    text-align: right;
   }
