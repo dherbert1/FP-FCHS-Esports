@@ -1,6 +1,6 @@
 body{
     background: linear-gradient(40deg, navy 100%, blue 50%, white 10%);
-    margin: 0% auto;
+    margin: auto;
     color: #fff;
 }
 
@@ -44,9 +44,10 @@ body{
   }
 
   .games{
-    text-align: right;
+  font-family: serif;
   }
 
   table{
     table-layout: fixed;
   }
+
