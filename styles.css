@@ -51,3 +51,10 @@ body{
     table-layout: fixed;
   }
 
+  h1, h2, h4, header{
+    border-bottom: 3px solid #131318;
+  }
+
+  table, th, td{
+    border: 6px solid #6f9ceb;
+  }
