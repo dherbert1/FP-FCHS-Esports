@@ -58,3 +58,9 @@ body{
   table, th, td{
     border: 6px solid #6f9ceb;
   }
+
+  @media screen and (max-width: 600px) and (max-height: 600px) {
+    main{
+      padding: auto;
+    }
+  }
