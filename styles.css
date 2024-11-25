@@ -66,5 +66,5 @@ body{
   }
 
   header, h1, h2, h4, p, ul{
-    background-size: contain;
+    padding: 0px auto;
   }
