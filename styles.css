@@ -68,3 +68,7 @@ body{
   header, h1, h2, h4, p, ul{
     padding: 0px auto;
   }
+
+  .h{
+    font-size: 25px;
+  }
