@@ -81,5 +81,6 @@ body{
   .allgames{
     width: 600px;
     height: 200px;
-    margin: auto;
+    display: grid;
+    
   }
