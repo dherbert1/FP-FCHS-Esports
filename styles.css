@@ -79,6 +79,7 @@ body{
   }
 
   .allgames{
-    width: 150px;
+    width: 600px;
     height: 200px;
+    margin: auto;
   }
