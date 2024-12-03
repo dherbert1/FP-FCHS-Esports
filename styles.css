@@ -79,10 +79,8 @@ body{
   }
 
   .allgames{
-    width: 600px;
     height: 5px;
     display: grid;
     grid-template-columns: 80px 200px auto 40px;
     justify-content: space-evenly;
-    
   }
