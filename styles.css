@@ -80,7 +80,7 @@ body{
 
   .allgames{
     display: grid;
-    grid-template-columns: 80px 200px auto 40px;
+    grid-template-columns: 100px 300px auto 40px;
     justify-content: space-evenly;
   }
 
