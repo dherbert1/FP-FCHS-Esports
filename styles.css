@@ -82,7 +82,7 @@ body{
     display: grid;
     width: 100%;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: auto;
+    grid-auto-rows: auto;
     justify-content: space-evenly;
     height: ;
   }
